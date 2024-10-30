@@ -1,0 +1,23 @@
+Attackers can leverage information from past security breaches that an organization might have experienced. 
+They may, for example, leverage the following data while trying to gather information about their victims:
+    Password dumps
+    File metadata
+    Strategic search engine analysis/enumeration
+    Website archiving/caching
+    Public source code repositories
+
+    
+Password Dumps
+Ways an attacker can get access to such password dumps are Pastebin, dark web websites, and even GitHub in some cases.
+ An example of a tool that allows you to find email addresses and passwords exposed in previous breaches is h8mail.
+You can install h8mail by using;
+
+pip3 install h8mail 
+
+The following are additional tools that allow you to search for breach data dumps:
+
+    WhatBreach: https://github.com/Ekultek/WhatBreach
+    LeakLooker: https://github.com/woj-ciech/LeakLooker
+    Buster: https://github.com/sham00n/buster
+    Scavenger: https://github.com/rndinfosecguy/Scavenger
+    PwnDB: https://github.com/davidtavarez/pwndb
