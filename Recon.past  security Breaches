@@ -7,12 +7,12 @@ They may, for example, leverage the following data while trying to gather inform
     Public source code repositories
 
     
-Password Dumps
+*Password Dumps*
 Ways an attacker can get access to such password dumps are Pastebin, dark web websites, and even GitHub in some cases.
  An example of a tool that allows you to find email addresses and passwords exposed in previous breaches is h8mail.
 You can install h8mail by using;
 
-pip3 install h8mail 
+>*pip3 install h8mail* 
 
 The following are additional tools that allow you to search for breach data dumps:
 
